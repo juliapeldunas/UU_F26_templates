@@ -1,3 +1,4 @@
 *.DS_Store
 .vscode/
 .idea/
+.Lab01/Data/* # does not upload all the data when you push back to github (?)
